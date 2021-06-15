@@ -1,6 +1,7 @@
-# YouOnlyLiveOnce
+# You Only Live Once
 
-What's the game about : First, in the alpha, there will be no multiplayer.
+What's the game about : 
+First, in the alpha, there will be no multiplayer.
 This game is about a story for now I will add multiplayer in the future this game is a storyline that you were stranded on a deserted island.
  but then you see a little bunker you decide to go in it "btw this is animated while you can't move until the cutscene is over you can't skip them yet"
  once you go to the door you gain access to controls and start collecting resources. You realize that something in the bunker you found was a hatch but it was locked,
