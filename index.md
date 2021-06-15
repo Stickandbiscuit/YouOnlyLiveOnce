@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to You Only Live Once
 
-You can use the [editor on GitHub](https://github.com/Stickandbiscuit/YouOnlyLiveOnce/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+What's the game about : First, in the alpha, there will be no multiplayer. This game is about a story for now I will add multiplayer in the future this game is a storyline that you were stranded on a deserted island. but then you see a little bunker you decide to go in it "btw this is animated while you can't move until the cutscene is over you can't skip them yet" once you go to the door you gain access to controls and start collecting resources. You realize that something in the bunker you found was a hatch but it was locked, you need to collect resources once you get a wooden axe you decide to go inside the room that's behind the hatch once you go inside the hatch SLAMS SHUT, Lights turn on and you see you're in a battling ring Station. the gates in front of you. They give you gear and a Rock?... they gave you a rock to throw but they also gave you a tag that gives you infinite rocks... That may sound impossible apparently not. Then the gates on the other side opens with a Giant. You throw all the rocks you can at him but you are slowly getting tired He breaks the ground and gets a rock and throws it at you, you doge, but you lost some health though by getting thrown you decide to keep on fighting you finally defeat the giant the Crowd Goes WILD Freaking out... but you found a way back to the city... it looks like a portal to it you decide to leave as they let you go, your back into the city you start to think about that game you played maybe... just maybe... (You will have it as a career)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ps... it's basically just a battling simulator but there is a better story mode coming soon
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Stickandbiscuit/YouOnlyLiveOnce/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Release: v0.00a Project 0.00% done Starting Date: 4pm est 2021, June 31st
